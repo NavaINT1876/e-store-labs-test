@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# Completed test task for eStoreLabs from Ihor Kucherenko
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+Install dependencies:
+
+### `npm install`
 
 In the project directory, you can run:
 
